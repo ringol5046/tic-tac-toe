@@ -11,6 +11,8 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.border.LineBorder;
 
+/*••• P12.13 */
+
 public class GameFrame extends JFrame {
     private static final int FRAME_WIDTH = 300;
     private static final int FRAME_HEIGHT = 300;
